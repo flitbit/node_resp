@@ -1,0 +1,30 @@
+{
+  "name": "resp",
+  "version": "0.0.9",
+  "description": "REdis Serialization Protocol for nodejs",
+  "main": "lib/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flitbit/resp.git"
+  },
+  "keywords": [
+    "redis",
+    "resp",
+    "serialization"
+  ],
+  "author": "phillip@flitbit.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flitbit/resp/issues"
+  },
+  "homepage": "https://github.com/flitbit/resp#readme",
+  "devDependencies": {
+    "eslint": "^2.7.0"
+  },
+  "dependencies": {
+    "assert-plus": "^1.0.0"
+  }
+}
